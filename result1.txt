@@ -1,0 +1,2 @@
+Enter the number of students: Enter the number of scores for each student: Alice 270 90
+Bob 210 70

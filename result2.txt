@@ -1,0 +1,3 @@
+Enter the number of students: Enter the number of scores for each student: James 190 95
+Michael 180 90
+Joseph 180 90

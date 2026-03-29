@@ -1,0 +1,1 @@
+Enter the number of students: Enter the number of scores for each student: Sara 100 25
